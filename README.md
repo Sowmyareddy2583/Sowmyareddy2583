@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning MERN Stack<br><br> visit My portfolio [http](https://sowmyareddy.netlify.app/) 💬 Ask me about web development<br><br>📫 reach me chinnalakshammasowmya2583@gmail.com<br><br>📄 Know about my experiences https://drive.google.com/file/d/194LVBdTGRqfbd_N5VWgZVr1EsyVB6Kvn/view?usp=sharing
+🌱 I’m currently learning MERN Stack<br><br>  💬 Ask me about web development<br><br>📫 reach me chinnalakshammasowmya2583@gmail.com<br><br>📄 Know about my experiences https://drive.google.com/file/d/194LVBdTGRqfbd_N5VWgZVr1EsyVB6Kvn/view?usp=sharing
 
 
 ## 🌐 Socials:
